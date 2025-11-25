@@ -1,0 +1,1 @@
+This repository contains a deep learning model built with Long Short-Term Memory (LSTM) networks to predict rainfall using historical weather data. The project introduces an ENUM-driven training pipeline, enabling clean, structured, and scalable management of model parameters such as epochs, optimizers, batch sizes, and feature sets.
